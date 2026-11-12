@@ -1,0 +1,8 @@
+{
+  "name": "go-3mf",
+  "description": "Read, edit, validate and generate 3MF files in Go, including Bambu Studio projects, with a preserve-everything edit policy and a reference implementation.",
+  "version": "0.1.0",
+  "license": "AGPL-3.0-only",
+  "keywords": ["3mf", "go", "3d-printing", "bambu-studio", "opc"],
+  "skills": "skills/"
+}
